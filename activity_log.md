@@ -5,3 +5,4 @@
 - [2026-03-19T15:58:21Z] fix: resolve edge case in input validation
 - [2026-03-19T19:29:17Z] perf: optimize loop for better performance
 - [2026-03-19T19:46:31Z] test: add unit tests for core module
+- [2026-03-19T13:45:12Z] refactor: simplify conditional logic
